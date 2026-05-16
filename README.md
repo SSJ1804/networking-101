@@ -207,6 +207,4 @@ echo -e "║          LAB COMPLETED SUCCESSFULLY       ║"
 echo -e "╚════════════════════════════════════════════╝${NC}"
 echo ""
 echo -e "${YELLOW}Thank you!"
-echo -e "For more tutorials, subscribe to SSJ's YouTube Channel:"
-echo -e "${GREEN}https://www.youtube.com/@ssj1804/videos${NC}"
-echo -e "${YELLOW}Happy Cloud Computing!${NC}"
+
